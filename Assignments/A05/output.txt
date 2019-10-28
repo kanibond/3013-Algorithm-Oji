@@ -1,0 +1,2060 @@
+0001:New York
+  1) Hoboken 4.12411
+  2) Jersey City 6.28151
+  3) West New York 8.38233
+  4) Bayonne 10.3709
+  5) Kearny 13.2845
+  6) Newark 14.257
+  7) East Orange 17.8276
+  8) Elizabeth 18.1018
+  9) Passaic 19.0515
+  10) Hackensack 19.5163
+  11) Clifton 20.9541
+  12) Union City 21.7538
+  13) Linden 22.5215
+  14) Valley Stream 25.6627
+  15) Yonkers 25.9159
+  16) Mount Vernon 26.3818
+  17) Paterson 26.6406
+  18) New Rochelle 29.0298
+  19) Perth Amboy 31.7036
+  20) Hempstead 32.6545
+  21) Plainfield 34.9872
+  22) Freeport 36.1813
+  23) Sayreville 41.1454
+  24) White Plains 41.1601
+  25) New Brunswick 45.3094
+  26) Stamford 54.5814
+  27) Norwalk 67.4781
+  28) Trenton 83.244
+  29) Bridgeport 86.1145
+  30) Danbury 88.8693
+  31) Milford 97.853
+  32) Shelton 101.867
+  33) West Haven 108.409
+  34) New Haven 112.132
+  35) Bethlehem 115.519
+  36) Waterbury 123.424
+  37) Allentown 125.767
+  38) Camden 128.758
+  39) Philadelphia 129.655
+  40) Meriden 136.077
+  41) Bristol 138.558
+  42) New Britain 147.192
+  43) Middletown 147.705
+  44) Atlantic City 154.134
+  45) Scranton 159.041
+  46) Hartford 160.831
+  47) Vineland 161.671
+  48) Reading 167.734
+  49) Wilkes-Barre 168.264
+  50) Wilmington 169.395
+  51) Norwich 185.197
+  52) Westfield 188.827
+  53) Springfield 194.453
+  54) Chicopee 197.733
+  55) Holyoke 202.329
+  56) Pittsfield 203.328
+  57) Lancaster 208.803
+  58) Dover 216.022
+  59) Albany 216.751
+  60) Binghamton 221.812
+  61) Troy 225.702
+  62) Schenectady 233.802
+  63) Warwick 242.933
+  64) York 245.367
+  65) Cranston 245.405
+  66) Harrisburg 248.517
+  67) Providence 249.527
+  68) Worcester 251.828
+  69) East Providence 252.097
+  70) Woonsocket 252.657
+  71) Pawtucket 254.692
+  72) Fall River 262.669
+  73) Attleboro 265.301
+  74) Baltimore 272.632
+  75) Marlborough 273.359
+  76) Leominster 274.779
+  77) New Bedford 276.9
+  78) Taunton 277.117
+  79) Fitchburg 277.17
+  80) Utica 284.361
+  81) Annapolis 286.839
+  82) Brockton 292.163
+  83) Newton 294.716
+  84) Waltham 295.653
+  85) Quincy 303.259
+  86) Bowie 303.398
+  87) Cambridge 303.704
+  88) Somerville 305.306
+  89) Weymouth Town 305.401
+  90) Boston 306.192
+  91) Medford 306.928
+  92) Woburn 308.103
+  93) Lowell 309.118
+  94) Everett 309.71
+  95) Chelsea 309.993
+  96) Malden 309.996
+  97) Nashua 310.621
+  98) Revere 312.468
+  99) Syracuse 314.49
+  100) Lynn 320.443
+
+
+0002:Los Angeles
+  1) Huntington Park 8.03266
+  2) Glendale 10.0956
+  3) Monterey Park 11.1932
+  4) South Gate 11.2304
+  5) Alhambra 11.7672
+  6) Montebello 12.6181
+  7) Bell Gardens 12.8772
+  8) San Gabriel 13.6054
+  9) Lynwood 13.8846
+  10) Pasadena 14.0132
+  11) Inglewood 14.2579
+  12) Culver City 14.5014
+  13) Burbank 15.5162
+  14) Pico Rivera 15.5794
+  15) Rosemead 16.0531
+  16) Downey 16.1064
+  17) Compton 17.5302
+  18) Hawthorne 18.1414
+  19) Gardena 19.1973
+  20) Paramount 19.6892
+  21) El Monte 19.9974
+  22) Whittier 21.068
+  23) Arcadia 21.5157
+  24) Bellflower 22.2798
+  25) Norwalk 22.3936
+  26) Santa Monica 23.1025
+  27) Lakewood 24.2997
+  28) Monrovia 24.5051
+  29) Carson 24.7817
+  30) Torrance 25.6763
+  31) La Mirada 26.1151
+  32) Redondo Beach 26.2367
+  33) Baldwin Park 26.3126
+  34) Cerritos 27.1562
+  35) La Puente 27.3503
+  36) West Covina 28.1388
+  37) La Habra 30.5239
+  38) Buena Park 30.5836
+  39) Long Beach 31.7231
+  40) Azusa 32.2561
+  41) Cypress 32.3664
+  42) Covina 32.8244
+  43) Brea 35.095
+  44) Fullerton 35.7404
+  45) Glendora 36.0759
+  46) Stanton 36.1414
+  47) Rancho Palos Verdes 36.7011
+  48) Anaheim 38.7918
+  49) Placentia 39.8377
+  50) Diamond Bar 40.0267
+  51) Westminster 40.637
+  52) Garden Grove 41.6733
+  53) Yorba Linda 43.6876
+  54) Pomona 45.4959
+  55) Orange 46.5253
+  56) Fountain Valley 46.616
+  57) Santa Clarita 46.7013
+  58) Chino Hills 47.626
+  59) Santa Ana 48.6556
+  60) Huntington Beach 49.0942
+  61) Montclair 51.114
+  62) Chino 51.3268
+  63) Tustin 51.4495
+  64) Ontario 54.6389
+  65) Costa Mesa 54.7012
+  66) Upland 55.0752
+  67) Simi Valley 55.078
+  68) Thousand Oaks 56.2542
+  69) Newport Beach 56.2891
+  70) Irvine 58.2871
+  71) Palmdale 59.7917
+  72) Rancho Cucamonga 60.2358
+  73) Eastvale 61.7595
+  74) Corona 65.5023
+  75) Lake Forest 68.2288
+  76) Jurupa Valley 70.1615
+  77) Lancaster 71.0554
+  78) Aliso Viejo 72.09
+  79) Mission Viejo 72.9394
+  80) Fontana 74.6337
+  81) Rancho Santa Margarita 74.8015
+  82) Camarillo 75.3381
+  83) Laguna Niguel 76.9902
+  84) Riverside 78.9185
+  85) Rialto 80.6829
+  86) Colton 85.7288
+  87) Oxnard 87.4457
+  88) San Bernardino 88.0994
+  89) San Clemente 90.8306
+  90) San Buenaventura (Ventura) 93.998
+  91) Moreno Valley 94.2987
+  92) Lake Elsinore 94.8157
+  93) Highland 95.7145
+  94) Hesperia 96.1616
+  95) Redlands 97.7869
+  96) Perris 98.3736
+  97) Victorville 102.63
+  98) Menifee 105.416
+  99) Apple Valley 109.278
+  100) Murrieta 110.137
+
+
+0003:Chicago
+  1) Cicero 10.9015
+  2) Oak Park 12.8341
+  3) Berwyn 13.915
+  4) Evanston 19.1776
+  5) Skokie 19.495
+  6) Oak Lawn 20.1333
+  7) Park Ridge 22.872
+  8) Glenview 25.0027
+  9) Elmhurst 25.8227
+  10) Des Plaines 27.1698
+  11) Addison 30.3225
+  12) Calumet City 30.3629
+  13) Lombard 31.3081
+  14) Downers Grove 32.5248
+  15) Mount Prospect 32.943
+  16) Orland Park 33.2502
+  17) Hammond 34.5072
+  18) Tinley Park 36.5352
+  19) Arlington Heights 37.2588
+  20) Wheeling 38.139
+  21) Gary 39.4491
+  22) Wheaton 39.5465
+  23) Schaumburg 41.3026
+  24) Bolingbrook 41.4911
+  25) Carol Stream 41.9851
+  26) Palatine 42.2463
+  27) Buffalo Grove 42.2601
+  28) Hanover Park 44.718
+  29) Hoffman Estates 45.6553
+  30) Naperville 45.666
+  31) Romeoville 45.9607
+  32) Bartlett 47.7924
+  33) Streamwood 48.2538
+  34) Joliet 54.3208
+  35) Plainfield 55.5145
+  36) Elgin 56.7565
+  37) Waukegan 56.8408
+  38) Carpentersville 58.5294
+  39) Aurora 58.6916
+  40) Crystal Lake 69.5934
+  41) Kenosha 80.1607
+  42) DeKalb 92.938
+  43) Racine 95.1586
+  44) South Bend 116.465
+  45) Mishawaka 124.386
+  46) Greenfield 124.522
+  47) New Berlin 128.323
+  48) Rockford 128.543
+  49) West Allis 130.368
+  50) Milwaukee 131.091
+  51) Wauwatosa 133.921
+  52) Beloit 135.131
+  53) Waukesha 135.408
+  54) Brookfield 137.211
+  55) Elkhart 138.836
+  56) Janesville 145.166
+  57) Portage 173.091
+  58) Lafayette 174.397
+  59) Kalamazoo 174.766
+  60) Muskegon 188.566
+  61) Normal 189.692
+  62) Bloomington 192.538
+  63) Wyoming 195.563
+  64) Kentwood 196.876
+  65) Madison 196.926
+  66) Kokomo 199.11
+  67) Grand Rapids 201.274
+  68) Urbana 202.483
+  69) Champaign 202.602
+  70) Battle Creek 208.11
+  71) Sheboygan 208.41
+  72) Peoria 210.154
+  73) Fond du Lac 221.056
+  74) Fort Wayne 225.74
+  75) Moline 243.166
+  76) Noblesville 245.113
+  77) Carmel 246.541
+  78) Davenport 247.944
+  79) Rock Island 248.317
+  80) Oshkosh 250.05
+  81) Decatur 252.573
+  82) Fishers 253.223
+  83) Anderson 256.244
+  84) Dubuque 259.487
+  85) Lawrence 263.951
+  86) Indianapolis 265.333
+  87) Muncie 265.575
+  88) Terre Haute 268.83
+  89) Lansing 270.134
+  90) Appleton 272.715
+  91) East Lansing 275.822
+  92) Greenwood 282.672
+  93) Springfield 288.564
+  94) Green Bay 295.45
+  95) Bloomington 315.819
+  96) Lima 320.379
+  97) Ann Arbor 323.95
+  98) Iowa City 324.429
+  99) Columbus 330.872
+  100) Cedar Rapids 334.121
+
+
+0004:Houston
+  1) Pasadena 17.3342
+  2) Missouri City 22.6321
+  3) Pearland 23.3446
+  4) Sugar Land 30.0238
+  5) Friendswood 30.4375
+  6) Baytown 37.9928
+  7) League City 38.7026
+  8) Texas City 61.6134
+  9) Conroe 61.8953
+  10) Galveston 75.3175
+  11) Huntsville 108.524
+  12) Beaumont 125.016
+  13) College Station 133.829
+  14) Port Arthur 138.668
+  15) Bryan 139.906
+  16) Victoria 190.807
+  17) Lake Charles 213.726
+  18) Pflugerville 229.316
+  19) Austin 235.412
+  20) Round Rock 237.178
+  21) Temple 240.709
+  22) Georgetown 242.194
+  23) San Marcos 248.522
+  24) Cedar Park 249.85
+  25) Waco 261.706
+  26) New Braunfels 266.126
+  27) Killeen 271.837
+  28) Tyler 288.243
+  29) Corpus Christi 294.179
+  30) San Antonio 304.427
+  31) Longview 310.622
+  32) Lafayette 326.791
+  33) Alexandria 329.005
+  34) Lancaster 341.457
+  35) Bossier City 343.851
+  36) Shreveport 343.984
+  37) DeSoto 345.04
+  38) Cedar Hill 348.888
+  39) Duncanville 353.323
+  40) Mesquite 354.217
+  41) Mansfield 354.416
+  42) Burleson 360.832
+  43) Dallas 361.871
+  44) Grand Prairie 366.362
+  45) Rowlett 367.466
+  46) Rockwall 367.552
+  47) Arlington 369.893
+  48) Garland 370.747
+  49) Irving 371.311
+  50) Richardson 377.366
+  51) Wylie 378.635
+  52) Euless 378.904
+  53) Hurst 381.247
+  54) Fort Worth 381.735
+  55) Bedford 382.123
+  56) Haltom City 383.208
+  57) Plano 383.856
+  58) North Richland Hills 384.831
+  59) Carrollton 385.642
+  60) Coppell 388.101
+  61) Grapevine 388.507
+  62) Allen 391.748
+  63) Keller 394.709
+  64) The Colony 396.562
+  65) Lewisville 396.652
+  66) Flower Mound 397.345
+  67) McKinney 400.786
+  68) Frisco 401.507
+  69) Baton Rouge 414.263
+  70) Denton 419.02
+  71) Texarkana 426.409
+  72) Monroe 434.976
+  73) Sherman 446.681
+  74) Harlingen 458.08
+  75) Laredo 471.647
+  76) Edinburg 472.407
+  77) Weslaco 476.105
+  78) Brownsville 477.46
+  79) Pharr 483.353
+  80) McAllen 485.184
+  81) Mission 489.529
+  82) Kenner 495.21
+  83) New Orleans 511.489
+  84) Abilene 511.854
+  85) San Angelo 520.676
+  86) Wichita Falls 548.115
+  87) Jackson 569.032
+  88) Pine Bluff 589.664
+  89) Hattiesburg 607.777
+  90) Gulfport 607.919
+  91) Lawton 609.28
+  92) Little Rock 625.607
+  93) Biloxi 628.027
+  94) North Little Rock 628.841
+  95) Fort Smith 632.28
+  96) Norman 637.757
+  97) Moore 651.453
+  98) Conway 653.188
+  99) Midwest City 660.61
+  100) Oklahoma City 665.823
+
+
+0005:Philadelphia
+  1) Camden 4.88893
+  2) Wilmington 39.8385
+  3) Trenton 46.4401
+  4) Vineland 53.2054
+  5) Bethlehem 76.8915
+  6) Reading 77.5175
+  7) Allentown 77.9846
+  8) New Brunswick 84.8166
+  9) Sayreville 88.5805
+  10) Atlantic City 91.223
+  11) Dover 93.5735
+  12) Lancaster 97.6257
+  13) Perth Amboy 98.1708
+  14) Plainfield 99.3633
+  15) Linden 107.915
+  16) Union City 112.771
+  17) Elizabeth 113.205
+  18) Bayonne 119.536
+  19) Newark 121.12
+  20) East Orange 121.805
+  21) Kearny 125.317
+  22) Jersey City 126.263
+  23) New York 129.655
+  24) Hoboken 130.268
+  25) Clifton 131.702
+  26) York 133.219
+  27) Passaic 133.506
+  28) West New York 134.696
+  29) Paterson 136.284
+  30) Hackensack 140.71
+  31) Baltimore 144.195
+  32) Valley Stream 146.738
+  33) Harrisburg 150.711
+  34) Yonkers 152.776
+  35) Mount Vernon 155.061
+  36) Freeport 155.421
+  37) Hempstead 155.628
+  38) Wilkes-Barre 156.046
+  39) Annapolis 157.23
+  40) New Rochelle 158.37
+  41) Scranton 167.328
+  42) White Plains 168.924
+  43) Bowie 173.961
+  44) Stamford 184.152
+  45) Rockville 195.992
+  46) Gaithersburg 196.451
+  47) Norwalk 197.112
+  48) Washington 198.424
+  49) Frederick 201.298
+  50) Alexandria 206.072
+  51) Bridgeport 215.726
+  52) Danbury 215.793
+  53) Hagerstown 221.035
+  54) Leesburg 225.808
+  55) Milford 227.375
+  56) Shelton 231.509
+  57) West Haven 237.833
+  58) Manassas 239.439
+  59) New Haven 241.656
+  60) State College 246.742
+  61) Binghamton 246.916
+  62) Waterbury 252.189
+  63) Meriden 265.668
+  64) Bristol 267.119
+  65) New Britain 276.486
+  66) Middletown 277.359
+  67) Altoona 281.335
+  68) Hartford 289.992
+  69) Norwich 313.565
+  70) Westfield 315.346
+  71) Pittsfield 320.881
+  72) Springfield 322.189
+  73) Albany 322.55
+  74) Chicopee 325.051
+  75) Holyoke 329.205
+  76) Troy 332.345
+  77) Richmond 332.792
+  78) Schenectady 334.312
+  79) Newport News 338.417
+  80) Hampton 340.918
+  81) Utica 350.221
+  82) Virginia Beach 351.962
+  83) Syracuse 353.886
+  84) Charlottesville 357.328
+  85) Norfolk 358.556
+  86) Harrisonburg 360.312
+  87) Portsmouth 360.495
+  88) Chesapeake 367.452
+  89) Warwick 370.544
+  90) Cranston 373.618
+  91) Providence 377.937
+  92) Suffolk 379.365
+  93) East Providence 380.341
+  94) Worcester 381.315
+  95) Woonsocket 381.997
+  96) Pawtucket 383.32
+  97) Fall River 389.493
+  98) Attleboro 394.033
+  99) New Bedford 402.422
+  100) Marlborough 402.953
+
+
+0006:Phoenix
+  1) Tempe 12.6979
+  2) Glendale 14.445
+  3) Scottsdale 14.6448
+  4) Peoria 21.1124
+  5) Mesa 22.8159
+  6) Avondale 25.6154
+  7) Goodyear 26.3636
+  8) Chandler 26.7901
+  9) Gilbert 28.5193
+  10) Surprise 33.8677
+  11) Maricopa 43.4777
+  12) Buckeye 48.1178
+  13) Apache Junction 48.8229
+  14) Casa Grande 69.8066
+  15) Prescott 126.752
+  16) Prescott Valley 131.112
+  17) Marana 137.797
+  18) Oro Valley 156.61
+  19) Tucson 173.536
+  20) Flagstaff 198.471
+  21) Lake Havasu City 237.236
+  22) Yuma 252.417
+  23) Sierra Vista 270.555
+  24) Bullhead City 293.421
+  25) Calexico 330.5
+  26) El Centro 333.099
+  27) Coachella 380.829
+  28) Indio 384.918
+  29) Henderson 391.982
+  30) La Quinta 393.333
+  31) Palm Desert 399.604
+  32) Cathedral City 408.532
+  33) Las Vegas 412.285
+  34) North Las Vegas 413.245
+  35) Palm Springs 416.181
+  36) St. George 427.841
+  37) San Jacinto 453.931
+  38) Hemet 454.944
+  39) Beaumont 456.877
+  40) El Cajon 461.1
+  41) Santee 461.298
+  42) Yucaipa 464.131
+  43) Poway 464.87
+  44) La Mesa 467.216
+  45) Escondido 467.446
+  46) Temecula 470.782
+  47) Menifee 474.429
+  48) San Marcos 474.57
+  49) Chula Vista 475.646
+  50) National City 476.141
+  51) Murrieta 476.814
+  52) Redlands 477.18
+  53) Perris 478.845
+  54) Moreno Valley 480.206
+  55) Highland 480.576
+  56) San Diego 480.989
+  57) Vista 481.094
+  58) Apple Valley 485.759
+  59) Lake Elsinore 487.469
+  60) Encinitas 487.498
+  61) San Bernardino 487.696
+  62) Colton 489.417
+  63) Carlsbad 491.519
+  64) Oceanside 493.835
+  65) Hesperia 494.377
+  66) Rialto 495.031
+  67) Riverside 495.613
+  68) Victorville 496.177
+  69) Fontana 500.762
+  70) Jurupa Valley 504.263
+  71) Farmington 506.055
+  72) Corona 510.616
+  73) Las Cruces 511.579
+  74) Rancho Santa Margarita 512.943
+  75) Eastvale 512.946
+  76) San Clemente 513.96
+  77) Rancho Cucamonga 515.404
+  78) Mission Viejo 519.277
+  79) Ontario 520.167
+  80) Upland 520.349
+  81) Lake Forest 520.926
+  82) Laguna Niguel 522.598
+  83) Chino 523.097
+  84) Montclair 523.897
+  85) Aliso Viejo 524.238
+  86) Chino Hills 526.881
+  87) Pomona 529.158
+  88) Irvine 530.764
+  89) Yorba Linda 533.442
+  90) Tustin 533.867
+  91) Diamond Bar 534.409
+  92) Albuquerque 534.527
+  93) Rio Rancho 535.011
+  94) Orange 536.536
+  95) Santa Ana 537.718
+  96) Placentia 538.604
+  97) Glendora 540.684
+  98) Brea 541.658
+  99) Costa Mesa 542.162
+  100) Covina 542.417
+
+
+0007:San Antonio
+  1) New Braunfels 47.3057
+  2) San Marcos 73.8742
+  3) Austin 118.471
+  4) Cedar Park 136.631
+  5) Pflugerville 140.863
+  6) Round Rock 143.887
+  7) Georgetown 155.743
+  8) Victoria 160.317
+  9) Killeen 202.164
+  10) Corpus Christi 209.968
+  11) Temple 216.552
+  12) Laredo 231.651
+  13) Bryan 247.259
+  14) College Station 247.307
+  15) Waco 269.331
+  16) Sugar Land 277.525
+  17) Missouri City 286.899
+  18) San Angelo 293.576
+  19) Houston 304.427
+  20) Conroe 309.16
+  21) Pearland 310.911
+  22) Huntsville 317.982
+  23) Friendswood 319.021
+  24) Pasadena 319.156
+  25) League City 329.246
+  26) Baytown 341.868
+  27) Texas City 347.969
+  28) Edinburg 348.806
+  29) Abilene 356.586
+  30) Mission 357.222
+  31) Galveston 358.519
+  32) McAllen 359.165
+  33) Pharr 360.478
+  34) Burleson 364.376
+  35) Weslaco 366.463
+  36) Harlingen 368.105
+  37) Mansfield 372.171
+  38) Cedar Hill 381.245
+  39) DeSoto 385.097
+  40) Fort Worth 386.727
+  41) Lancaster 389.332
+  42) Duncanville 389.481
+  43) Arlington 391.254
+  44) Haltom City 393.118
+  45) Grand Prairie 395.983
+  46) North Richland Hills 397.944
+  47) Hurst 398.518
+  48) Bedford 401.514
+  49) Euless 402.687
+  50) Brownsville 403.877
+  51) Irving 404.704
+  52) Dallas 406.376
+  53) Keller 408.518
+  54) Grapevine 412.994
+  55) Mesquite 413.241
+  56) Coppell 417.105
+  57) Flower Mound 420.855
+  58) Carrollton 423.444
+  59) Garland 426.253
+  60) Richardson 426.38
+  61) Lewisville 427.351
+  62) Beaumont 427.942
+  63) Rowlett 428.283
+  64) The Colony 434.229
+  65) Plano 434.825
+  66) Rockwall 435.432
+  67) Wylie 440.543
+  68) Denton 440.987
+  69) Port Arthur 443.095
+  70) Frisco 443.825
+  71) Allen 444.378
+  72) Tyler 445.887
+  73) Midland 446.483
+  74) McKinney 455.12
+  75) Odessa 458.2
+  76) Longview 495.137
+  77) Wichita Falls 499.36
+  78) Sherman 501.326
+  79) Lake Charles 516.839
+  80) Lubbock 561.226
+  81) Shreveport 568.736
+  82) Bossier City 569.507
+  83) Lawton 576.164
+  84) Texarkana 613.127
+  85) Alexandria 617.121
+  86) Lafayette 630.902
+  87) Norman 652.492
+  88) Moore 664.697
+  89) Midwest City 678.03
+  90) Oklahoma City 678.406
+  91) Monroe 697.894
+  92) Edmond 699.296
+  93) Clovis 710.265
+  94) Amarillo 716.999
+  95) Baton Rouge 717.861
+  96) Roswell 722.656
+  97) Stillwater 756.247
+  98) Muskogee 761.735
+  99) Fort Smith 766.344
+  100) Enid 777.53
+
+
+0008:San Diego
+  1) National City 7.14665
+  2) Chula Vista 11.0761
+  3) La Mesa 14.1511
+  4) El Cajon 20.5489
+  5) Santee 22.1917
+  6) Poway 29.8701
+  7) Encinitas 37.7658
+  8) Escondido 45.4147
+  9) San Marcos 47.5666
+  10) Carlsbad 52.2852
+  11) Vista 54.4005
+  12) Oceanside 57.1611
+  13) Temecula 86.5316
+  14) San Clemente 89.5786
+  15) Murrieta 93.3571
+  16) Laguna Niguel 103.17
+  17) Lake Elsinore 107.048
+  18) Aliso Viejo 108.366
+  19) Menifee 109.182
+  20) Mission Viejo 109.256
+  21) Rancho Santa Margarita 110.82
+  22) Lake Forest 114.652
+  23) Hemet 116.102
+  24) Perris 118.821
+  25) San Jacinto 120.292
+  26) Irvine 122.778
+  27) Newport Beach 123.298
+  28) Costa Mesa 124.771
+  29) Tustin 130.216
+  30) Huntington Beach 130.858
+  31) La Quinta 131.85
+  32) Santa Ana 132.075
+  33) Fountain Valley 132.85
+  34) Palm Desert 133.754
+  35) Corona 134.366
+  36) Cathedral City 134.897
+  37) Orange 135.505
+  38) Beaumont 136.075
+  39) Palm Springs 136.554
+  40) Moreno Valley 136.594
+  41) Garden Grove 138.281
+  42) Westminster 138.824
+  43) Riverside 139.378
+  44) Coachella 141.25
+  45) Indio 142.238
+  46) Anaheim 142.879
+  47) Eastvale 143.08
+  48) Stanton 143.526
+  49) Yorba Linda 143.849
+  50) Placentia 144.548
+  51) Jurupa Valley 145.683
+  52) Fullerton 146.722
+  53) Yucaipa 146.993
+  54) Cypress 147.112
+  55) Redlands 149.038
+  56) El Centro 149.722
+  57) Buena Park 149.891
+  58) Brea 150.2
+  59) Chino Hills 151.331
+  60) Long Beach 151.588
+  61) Colton 151.727
+  62) Chino 152.313
+  63) Cerritos 152.351
+  64) La Habra 153.697
+  65) Fontana 155.201
+  66) La Mirada 155.286
+  67) San Bernardino 155.355
+  68) Lakewood 155.564
+  69) Calexico 155.636
+  70) Rialto 155.893
+  71) Ontario 156.639
+  72) Highland 157.181
+  73) Bellflower 157.209
+  74) Norwalk 157.287
+  75) Diamond Bar 157.989
+  76) Pomona 158.695
+  77) Montclair 159.222
+  78) Rancho Cucamonga 159.794
+  79) Paramount 160.193
+  80) Upland 160.211
+  81) Rancho Palos Verdes 161.557
+  82) Carson 162.063
+  83) Whittier 162.198
+  84) La Puente 162.507
+  85) Downey 163.419
+  86) Compton 164.069
+  87) Pico Rivera 165.609
+  88) Torrance 165.987
+  89) Lynwood 166.669
+  90) Bell Gardens 166.686
+  91) West Covina 166.915
+  92) Covina 167.181
+  93) Gardena 168.512
+  94) South Gate 168.902
+  95) Baldwin Park 169.468
+  96) Montebello 169.597
+  97) Redondo Beach 170.045
+  98) El Monte 170.637
+  99) Glendora 170.975
+  100) Huntington Park 172.041
+
+
+0009:Dallas
+  1) Irving 14.7977
+  2) Duncanville 17.3623
+  3) Mesquite 18.5342
+  4) Grand Prairie 19.0893
+  5) Richardson 20.098
+  6) Lancaster 20.8844
+  7) Garland 21.1414
+  8) DeSoto 21.5428
+  9) Carrollton 23.7747
+  10) Cedar Hill 25.6918
+  11) Rowlett 25.9171
+  12) Euless 27.4745
+  13) Coppell 28.3972
+  14) Plano 28.5576
+  15) Arlington 29.4523
+  16) Grapevine 31.5766
+  17) Bedford 33.2081
+  18) The Colony 34.9705
+  19) Lewisville 35.1851
+  20) Hurst 35.313
+  21) Wylie 35.8402
+  22) Rockwall 35.8986
+  23) Allen 38.1865
+  24) Flower Mound 38.5357
+  25) Mansfield 40.0662
+  26) North Richland Hills 40.8842
+  27) Frisco 41.6737
+  28) Keller 44.0292
+  29) Haltom City 44.2259
+  30) McKinney 49.025
+  31) Fort Worth 49.9788
+  32) Burleson 55.5616
+  33) Denton 57.95
+  34) Sherman 97.1336
+  35) Waco 140.426
+  36) Tyler 147.995
+  37) Temple 193.662
+  38) Longview 195.044
+  39) Wichita Falls 202.081
+  40) Killeen 204.421
+  41) Bryan 237.295
+  42) College Station 242.966
+  43) Lawton 251.36
+  44) Georgetown 252.555
+  45) Huntsville 256.981
+  46) Round Rock 265.764
+  47) Texarkana 266.117
+  48) Cedar Park 270.587
+  49) Pflugerville 271.404
+  50) Abilene 277.485
+  51) Norman 278.423
+  52) Shreveport 286.691
+  53) Bossier City 288.488
+  54) Moore 292.052
+  55) Austin 293.178
+  56) Conroe 302.174
+  57) Midwest City 302.374
+  58) Oklahoma City 306.539
+  59) Edmond 325.979
+  60) San Marcos 339.684
+  61) Muskogee 355.556
+  62) Houston 361.871
+  63) New Braunfels 364.424
+  64) Fort Smith 364.724
+  65) Sugar Land 368.125
+  66) Missouri City 371.123
+  67) Stillwater 372.151
+  68) San Angelo 372.667
+  69) Pasadena 374.94
+  70) Broken Arrow 376.628
+  71) Baytown 379.914
+  72) Tulsa 382.812
+  73) Pearland 385.21
+  74) Friendswood 391.811
+  75) Beaumont 392.632
+  76) League City 398.07
+  77) San Antonio 406.376
+  78) Enid 414.511
+  79) Texas City 418.27
+  80) Port Arthur 420.822
+  81) Galveston 430.926
+  82) Fayetteville 438.393
+  83) Monroe 439.074
+  84) Alexandria 441.432
+  85) Victoria 442.165
+  86) Lake Charles 442.31
+  87) Springdale 451.286
+  88) Bentonville 464.896
+  89) Rogers 465.329
+  90) Little Rock 470.799
+  91) Pine Bluff 472.963
+  92) North Little Rock 473.784
+  93) Conway 477.04
+  94) Lubbock 479.192
+  95) Midland 503.47
+  96) Joplin 522.366
+  97) Odessa 533.732
+  98) Lafayette 534.557
+  99) Amarillo 537.919
+  100) Wichita 548.556
+
+
+0010:San Jose
+  1) Santa Clara 6.34458
+  2) Campbell 7.99453
+  3) Milpitas 10.5347
+  4) Cupertino 13.0098
+  5) Sunnyvale 13.6941
+  6) Mountain View 18.2549
+  7) Fremont 25.0485
+  8) Newark 25.2632
+  9) Palo Alto 25.4469
+  10) Morgan Hill 30.9126
+  11) Union City 31.606
+  12) Redwood City 34.9798
+  13) Pleasanton 36.0767
+  14) Livermore 39.6247
+  15) Hayward 40.5792
+  16) Dublin 40.7148
+  17) Santa Cruz 42.4732
+  18) San Mateo 46.1416
+  19) Gilroy 46.4939
+  20) Watsonville 48.9664
+  21) San Leandro 49.1555
+  22) San Ramon 49.7914
+  23) Danville 54.6904
+  24) San Bruno 56.5858
+  25) Alameda 56.897
+  26) South San Francisco 57.9317
+  27) Tracy 60.3949
+  28) Pacifica 61.2392
+  29) Oakland 61.9592
+  30) Daly City 64.5494
+  31) Walnut Creek 65.5297
+  32) San Francisco 67.5941
+  33) Brentwood 68.1304
+  34) Berkeley 68.4033
+  35) Concord 72.2917
+  36) Antioch 74.4944
+  37) Oakley 74.9029
+  38) Salinas 76.2688
+  39) Pittsburg 76.7207
+  40) Richmond 77.9041
+  41) Manteca 78.1078
+  42) Martinez 78.8407
+  43) Modesto 85.3344
+  44) Stockton 86.594
+  45) Ceres 86.8099
+  46) San Rafael 90.6473
+  47) Vallejo 91.2034
+  48) Turlock 93.4838
+  49) Fairfield 102.24
+  50) Lodi 103.708
+  51) Novato 104.567
+  52) Napa 112.356
+  53) Vacaville 113.619
+  54) Petaluma 119.34
+  55) Merced 124.196
+  56) Elk Grove 127.364
+  57) Rohnert Park 132.395
+  58) Davis 134.825
+  59) West Sacramento 141.656
+  60) Sacramento 142.502
+  61) Santa Rosa 142.508
+  62) Rancho Cordova 148.242
+  63) Woodland 149.406
+  64) Citrus Heights 161.23
+  65) Folsom 161.493
+  66) Roseville 165.767
+  67) Madera 167.185
+  68) Rocklin 171.307
+  69) Lincoln 180.406
+  70) Fresno 198.845
+  71) Yuba City 201.834
+  72) Clovis 201.963
+  73) Hanford 228.961
+  74) San Luis Obispo 253.678
+  75) Visalia 256.71
+  76) Tulare 258.792
+  77) Chico 265.897
+  78) Carson City 274.729
+  79) Porterville 292.436
+  80) Delano 293.369
+  81) Santa Maria 295.55
+  82) Reno 303.322
+  83) Sparks 306.984
+  84) Lompoc 326.559
+  85) Bakersfield 337.231
+  86) Redding 363.932
+  87) Santa Barbara 379.68
+  88) San Buenaventura (Ventura) 416.566
+  89) Oxnard 426.347
+  90) Camarillo 431.974
+  91) Simi Valley 441.468
+  92) Santa Clarita 445.185
+  93) Lancaster 446.828
+  94) Thousand Oaks 446.998
+  95) Palmdale 457.471
+  96) Burbank 476.974
+  97) Santa Monica 479.872
+  98) Glendale 483.455
+  99) Culver City 485.239
+  100) Pasadena 489.839
+
+
+0991:Aventura
+  1) Hallandale Beach 2.89829
+  2) North Miami Beach 3.48999
+  3) Hollywood 6.17242
+  4) North Miami 8.78079
+  5) Miami Gardens 10.7611
+  6) Pembroke Pines 16.7059
+  7) Miramar 16.7599
+  8) Davie 17.4782
+  9) Hialeah 17.7221
+  10) Fort Lauderdale 18.4597
+  11) Miami Beach 18.4673
+  12) Plantation 21.2185
+  13) Lauderhill 21.7539
+  14) Miami 22.2969
+  15) Oakland Park 24.0162
+  16) Sunrise 26.1852
+  17) Doral 26.4512
+  18) Coral Gables 29.161
+  19) North Lauderdale 30.2747
+  20) Weston 30.566
+  21) Tamarac 30.5801
+  22) Pompano Beach 31.3299
+  23) Margate 32.7341
+  24) Coconut Creek 33.0802
+  25) Coral Springs 37.383
+  26) Deerfield Beach 40.4485
+  27) Boca Raton 45.8173
+  28) Cutler Bay 46.6729
+  29) Delray Beach 56.5565
+  30) Homestead 63.9754
+  31) Boynton Beach 64.1729
+  32) Greenacres 74.6501
+  33) Wellington 79.4957
+  34) West Palm Beach 84.8378
+  35) Palm Beach Gardens 96.4236
+  36) Jupiter 108.843
+  37) Port St. Lucie 148.047
+  38) Fort Pierce 166.783
+  39) Bonita Springs 169.151
+  40) Fort Myers 188.823
+  41) Cape Coral 192.756
+  42) Palm Bay 235.378
+  43) Melbourne 241.112
+  44) North Port 241.232
+  45) St. Cloud 278.918
+  46) Sarasota 282.971
+  47) Kissimmee 288.513
+  48) Lakeland 293.033
+  49) Bradenton 296.596
+  50) Titusville 302.684
+  51) Orlando 312.246
+  52) Tampa 319.369
+  53) St. Petersburg 319.975
+  54) Ocoee 322.074
+  55) Winter Garden 323.509
+  56) Altamonte Springs 324.318
+  57) Pinellas Park 329.4
+  58) Apopka 334.083
+  59) Sanford 335.689
+  60) Largo 340.774
+  61) Clearwater 345.72
+  62) Deltona 345.755
+  63) Port Orange 363.837
+  64) Daytona Beach 372.297
+  65) Ormond Beach 381.164
+  66) Ocala 409.907
+  67) Palm Coast 416.998
+  68) Gainesville 463.819
+  69) Jacksonville 508.89
+  70) Valdosta 623.214
+  71) Tallahassee 642.759
+  72) Savannah 687.854
+  73) Hilton Head Island 698.802
+  74) Panama City 715.433
+  75) Albany 737.65
+  76) Charleston 758.83
+  77) Mount Pleasant 765.366
+  78) North Charleston 767.419
+  79) Dothan 778.33
+  80) Goose Creek 781.38
+  81) Summerville 785.491
+  82) Warner Robins 813.76
+  83) Macon 837.025
+  84) Pensacola 852.916
+  85) Augusta-Richmond County 855.354
+  86) Columbus 862.835
+  87) Phenix City 864.445
+  88) Sumter 886.015
+  89) Columbia 898.867
+  90) Auburn 903.075
+  91) Florence 917.103
+  92) Montgomery 930.388
+  93) Mobile 935.595
+  94) Athens-Clarke County 941.668
+  95) Wilmington 943.61
+  96) Atlanta 958.48
+  97) Brookhaven 967.99
+  98) Peachtree Corners 973.98
+  99) Sandy Springs 976.007
+  100) Dunwoody 976.044
+
+
+0992:Martinez
+  1) Concord 10.1384
+  2) Walnut Creek 13.5762
+  3) Vallejo 14.279
+  4) Berkeley 20.4443
+  5) Richmond 20.9104
+  6) Pittsburg 21.8776
+  7) Danville 24.9496
+  8) Oakland 26.7651
+  9) Fairfield 26.8751
+  10) Antioch 28.8188
+  11) Alameda 29.8029
+  12) San Ramon 29.9503
+  13) San Leandro 32.8058
+  14) Napa 33.7003
+  15) San Rafael 35.1655
+  16) San Francisco 36.9617
+  17) Oakley 37.0352
+  18) Hayward 39.2706
+  19) Dublin 39.3474
+  20) Novato 39.3808
+  21) Vacaville 39.6299
+  22) Brentwood 39.6458
+  23) Pleasanton 45.7769
+  24) South San Francisco 47.1514
+  25) Daly City 47.2246
+  26) Union City 48.0397
+  27) Livermore 49.4275
+  28) San Bruno 49.6277
+  29) Petaluma 49.9478
+  30) San Mateo 53.4759
+  31) Fremont 53.938
+  32) Pacifica 54.7309
+  33) Newark 55.0904
+  34) Redwood City 60.0881
+  35) Rohnert Park 61.0428
+  36) Palo Alto 64.2362
+  37) Davis 67.8076
+  38) Milpitas 68.4765
+  39) Santa Rosa 68.9977
+  40) Tracy 69.5789
+  41) Mountain View 70.5802
+  42) Sunnyvale 72.8667
+  43) Stockton 74.2466
+  44) Santa Clara 75.6513
+  45) Lodi 76.5376
+  46) Cupertino 77.9729
+  47) San Jose 78.8407
+  48) Elk Grove 79.4769
+  49) Woodland 79.7853
+  50) West Sacramento 81.6907
+  51) Campbell 83.0391
+  52) Sacramento 83.8352
+  53) Manteca 84.2646
+  54) Rancho Cordova 96.3387
+  55) Citrus Heights 106.708
+  56) Morgan Hill 107.53
+  57) Modesto 108.492
+  58) Roseville 109.928
+  59) Folsom 111.131
+  60) Ceres 113.649
+  61) Rocklin 116.154
+  62) Santa Cruz 116.616
+  63) Lincoln 121.566
+  64) Gilroy 123.296
+  65) Turlock 127.377
+  66) Watsonville 127.781
+  67) Yuba City 132.555
+  68) Salinas 155.109
+  69) Merced 165.83
+  70) Chico 191.827
+  71) Madera 217.551
+  72) Carson City 241.932
+  73) Fresno 252.165
+  74) Clovis 252.497
+  75) Reno 262.092
+  76) Sparks 266.546
+  77) Redding 286.396
+  78) Hanford 289.897
+  79) Visalia 314.202
+  80) Tulare 318.877
+  81) San Luis Obispo 331.592
+  82) Porterville 351.867
+  83) Delano 358.587
+  84) Santa Maria 373.327
+  85) Bakersfield 404.689
+  86) Lompoc 404.839
+  87) Santa Barbara 456.001
+  88) Medford 483.189
+  89) San Buenaventura (Ventura) 491.422
+  90) Oxnard 501.237
+  91) Camarillo 506.209
+  92) Lancaster 514.193
+  93) Simi Valley 514.345
+  94) Santa Clarita 516.341
+  95) Thousand Oaks 520.525
+  96) Palmdale 525.336
+  97) Burbank 548.022
+  98) Santa Monica 552.459
+  99) Glendale 554.43
+  100) Culver City 557.4
+
+
+0993:Greenfield
+  1) West Allis 6.16504
+  2) New Berlin 7.97597
+  3) Wauwatosa 9.80243
+  4) Milwaukee 12.1991
+  5) Brookfield 13.4149
+  6) Waukesha 18.6673
+  7) Racine 32.1839
+  8) Kenosha 44.7142
+  9) Waukegan 67.8894
+  10) Crystal Lake 83.8803
+  11) Janesville 87.7357
+  12) Buffalo Grove 88.5311
+  13) Sheboygan 91.0533
+  14) Wheeling 91.7076
+  15) Palatine 94.681
+  16) Carpentersville 95.5967
+  17) Fond du Lac 96.8699
+  18) Arlington Heights 97.1407
+  19) Beloit 97.3239
+  20) Mount Prospect 99.7371
+  21) Hoffman Estates 100.334
+  22) Glenview 100.872
+  23) Schaumburg 103.386
+  24) Des Plaines 103.765
+  25) Streamwood 104.973
+  26) Evanston 105.344
+  27) Elgin 105.348
+  28) Skokie 105.692
+  29) Park Ridge 106.631
+  30) Hanover Park 107.542
+  31) Bartlett 108.419
+  32) Madison 113.608
+  33) Addison 114.547
+  34) Carol Stream 117.093
+  35) Rockford 117.171
+  36) Elmhurst 118.263
+  37) Lombard 120.278
+  38) Oak Park 121.176
+  39) Wheaton 122.069
+  40) Chicago 124.522
+  41) Berwyn 124.853
+  42) Oshkosh 125.762
+  43) Cicero 125.913
+  44) Downers Grove 128.187
+  45) DeKalb 129.77
+  46) Naperville 135.144
+  47) Aurora 135.932
+  48) Oak Lawn 139.782
+  49) Bolingbrook 140.527
+  50) Romeoville 146.274
+  51) Muskegon 146.455
+  52) Appleton 148.245
+  53) Orland Park 148.627
+  54) Plainfield 148.748
+  55) Calumet City 154.877
+  56) Tinley Park 155.462
+  57) Hammond 158.972
+  58) Joliet 159.864
+  59) Gary 161.735
+  60) Green Bay 173.264
+  61) Wyoming 187.949
+  62) Grand Rapids 190.826
+  63) Kentwood 193.143
+  64) South Bend 203.448
+  65) Mishawaka 210.09
+  66) Kalamazoo 211.994
+  67) Portage 216.416
+  68) Elkhart 219.722
+  69) Dubuque 222.64
+  70) Battle Creek 242.462
+  71) Wausau 257.172
+  72) Moline 261.997
+  73) Davenport 264.899
+  74) Rock Island 265.945
+  75) La Crosse 277.068
+  76) Lansing 283.043
+  77) Normal 284.033
+  78) Peoria 284.05
+  79) Bloomington 287.31
+  80) East Lansing 288.81
+  81) Lafayette 298.377
+  82) Midland 313.387
+  83) Kokomo 316.382
+  84) Fort Wayne 316.495
+  85) Champaign 317.019
+  86) Urbana 317.499
+  87) Cedar Rapids 319.018
+  88) Iowa City 323.422
+  89) Saginaw 333.265
+  90) Eau Claire 346.969
+  91) Flint 351.913
+  92) Decatur 355.929
+  93) Ann Arbor 357.506
+  94) Waterloo 357.564
+  95) Noblesville 364.725
+  96) Cedar Falls 365.108
+  97) Carmel 367.419
+  98) Anderson 372.287
+  99) Fishers 373.412
+  100) Novi 374.534
+
+
+0994:Apache Junction
+  1) Gilbert 23.2906
+  2) Mesa 26.1717
+  3) Chandler 29.6795
+  4) Scottsdale 36.0276
+  5) Tempe 36.2641
+  6) Phoenix 48.8229
+  7) Glendale 60.6225
+  8) Maricopa 61.0181
+  9) Casa Grande 62.6307
+  10) Peoria 66.3997
+  11) Avondale 74.3014
+  12) Goodyear 75.0482
+  13) Surprise 79.5343
+  14) Buckeye 96.1695
+  15) Marana 113.056
+  16) Oro Valley 126.256
+  17) Tucson 144.943
+  18) Prescott Valley 150.515
+  19) Prescott 151.129
+  20) Flagstaff 198.563
+  21) Sierra Vista 239.767
+  22) Lake Havasu City 282.099
+  23) Yuma 297.981
+  24) Bullhead City 334.046
+  25) Calexico 377.17
+  26) El Centro 380.286
+  27) Henderson 428.482
+  28) Coachella 429.647
+  29) Indio 433.727
+  30) La Quinta 442.155
+  31) Palm Desert 448.415
+  32) St. George 448.624
+  33) Las Vegas 448.747
+  34) North Las Vegas 449.427
+  35) Cathedral City 457.323
+  36) Las Cruces 463.353
+  37) Palm Springs 464.948
+  38) Farmington 477.133
+  39) Albuquerque 490.968
+  40) Rio Rancho 492.216
+  41) San Jacinto 502.731
+  42) Hemet 503.755
+  43) Beaumont 505.599
+  44) El Cajon 508.967
+  45) Santee 509.261
+  46) El Paso 511.98
+  47) Yucaipa 512.77
+  48) Poway 513.085
+  49) La Mesa 515.043
+  50) Escondido 515.909
+  51) Temecula 519.572
+  52) San Marcos 523.071
+  53) Chula Vista 523.202
+  54) Menifee 523.25
+  55) National City 523.793
+  56) Murrieta 525.624
+  57) Redlands 525.811
+  58) Perris 527.65
+  59) San Diego 528.749
+  60) Moreno Valley 528.932
+  61) Highland 529.134
+  62) Vista 529.667
+  63) Apple Valley 533.743
+  64) Encinitas 535.871
+  65) San Bernardino 536.285
+  66) Lake Elsinore 536.292
+  67) Colton 538.041
+  68) Carlsbad 540.054
+  69) Oceanside 542.413
+  70) Hesperia 542.531
+  71) Rialto 543.63
+  72) Victorville 544.129
+  73) Riverside 544.34
+  74) Fontana 549.38
+  75) Jurupa Valley 552.964
+  76) Corona 559.392
+  77) Eastvale 561.682
+  78) Rancho Santa Margarita 561.765
+  79) San Clemente 562.724
+  80) Rancho Cucamonga 564.023
+  81) Mission Viejo 568.095
+  82) Ontario 568.828
+  83) Upland 568.981
+  84) Lake Forest 569.748
+  85) Laguna Niguel 571.4
+  86) Chino 571.799
+  87) Montclair 572.549
+  88) Santa Fe 572.703
+  89) Aliso Viejo 573.051
+  90) Chino Hills 575.6
+  91) Pomona 577.831
+  92) Irvine 579.587
+  93) Yorba Linda 582.217
+  94) Tustin 582.684
+  95) Diamond Bar 583.105
+  96) Orange 585.345
+  97) Santa Ana 586.535
+  98) Placentia 587.387
+  99) Glendora 589.299
+  100) Brea 590.422
+
+
+0995:Monrovia
+  1) Arcadia 3.11586
+  2) Baldwin Park 7.57067
+  3) El Monte 8.73792
+  4) Azusa 8.76916
+  5) Rosemead 9.63423
+  6) West Covina 10.2194
+  7) San Gabriel 10.9632
+  8) Covina 11.9174
+  9) Glendora 12.6081
+  10) Alhambra 12.7396
+  11) Pasadena 13.1298
+  12) Monterey Park 14.3758
+  13) La Puente 14.6396
+  14) Montebello 17.5502
+  15) Whittier 18.5808
+  16) Pico Rivera 19.9428
+  17) Diamond Bar 21.8399
+  18) Glendale 23.3025
+  19) La Habra 24.1667
+  20) Bell Gardens 24.2092
+  21) Los Angeles 24.5051
+  22) Pomona 25.2356
+  23) La Mirada 25.2681
+  24) Downey 25.7264
+  25) Brea 26.999
+  26) Huntington Park 27.3806
+  27) Norwalk 27.9062
+  28) Burbank 28.5479
+  29) South Gate 28.6206
+  30) Montclair 29.6905
+  31) Chino Hills 30.1835
+  32) Lynwood 30.6481
+  33) Buena Park 30.7833
+  34) Bellflower 31.0726
+  35) Fullerton 31.2948
+  36) Paramount 31.8581
+  37) Cerritos 32.3245
+  38) Chino 32.3596
+  39) Placentia 32.5986
+  40) Upland 32.9683
+  41) Yorba Linda 33.3396
+  42) Ontario 33.5611
+  43) Compton 34.1728
+  44) Lakewood 34.5422
+  45) Anaheim 35.2988
+  46) Cypress 36.5501
+  47) Rancho Cucamonga 37.8782
+  48) Stanton 38.0196
+  49) Inglewood 38.207
+  50) Culver City 38.8389
+  51) Gardena 40.1418
+  52) Hawthorne 41.072
+  53) Garden Grove 41.5695
+  54) Orange 41.9581
+  55) Carson 43.2945
+  56) Westminster 43.7089
+  57) Eastvale 43.9658
+  58) Long Beach 45.2271
+  59) Santa Ana 46.0385
+  60) Torrance 46.3927
+  61) Santa Monica 47.1592
+  62) Tustin 47.1887
+  63) Redondo Beach 48.4477
+  64) Fountain Valley 48.5964
+  65) Palmdale 49.5316
+  66) Corona 50.0731
+  67) Jurupa Valley 50.3168
+  68) Fontana 52.5206
+  69) Huntington Beach 53.83
+  70) Irvine 54.656
+  71) Costa Mesa 56.4868
+  72) Santa Clarita 56.8051
+  73) Rancho Palos Verdes 56.9197
+  74) Rialto 58.3085
+  75) Newport Beach 58.8201
+  76) Riverside 59.7299
+  77) Lancaster 61.938
+  78) Lake Forest 62.3944
+  79) Colton 63.8676
+  80) San Bernardino 65.6944
+  81) Rancho Santa Margarita 67.0156
+  82) Mission Viejo 67.77
+  83) Aliso Viejo 69.0232
+  84) Hesperia 71.6632
+  85) Simi Valley 73.0451
+  86) Highland 73.0542
+  87) Laguna Niguel 74.31
+  88) Moreno Valley 74.6301
+  89) Redlands 76.1108
+  90) Thousand Oaks 76.9681
+  91) Victorville 78.3749
+  92) Lake Elsinore 81.7567
+  93) Perris 81.9012
+  94) Apple Valley 84.808
+  95) San Clemente 87.5473
+  96) Yucaipa 89.1775
+  97) Menifee 90.3013
+  98) Camarillo 95.6325
+  99) Beaumont 97.4214
+  100) Murrieta 98.0319
+
+
+0996:Weslaco
+  1) Pharr 19.6396
+  2) Edinburg 23.3764
+  3) McAllen 24.367
+  4) Harlingen 29.6229
+  5) Mission 33.966
+  6) Brownsville 57.0374
+  7) Corpus Christi 191.803
+  8) Laredo 212.374
+  9) Victoria 309.977
+  10) San Antonio 366.463
+  11) New Braunfels 394.347
+  12) San Marcos 414.208
+  13) Sugar Land 449.139
+  14) Missouri City 454.034
+  15) Austin 457.522
+  16) Pearland 462.657
+  17) Friendswood 464.464
+  18) League City 468.777
+  19) Galveston 469.995
+  20) Texas City 470.033
+  21) Houston 476.105
+  22) Pflugerville 477.414
+  23) Pasadena 478.518
+  24) Cedar Park 483.642
+  25) Round Rock 484.656
+  26) Baytown 495.79
+  27) Georgetown 498.538
+  28) College Station 522.745
+  29) Conroe 524.357
+  30) Bryan 526.584
+  31) Killeen 552.013
+  32) Temple 552.942
+  33) Huntsville 560.881
+  34) Port Arthur 574.266
+  35) Beaumont 577.71
+  36) Waco 605.096
+  37) San Angelo 636.257
+  38) Lake Charles 650.698
+  39) Burleson 712.869
+  40) Mansfield 716.989
+  41) Abilene 719.611
+  42) Cedar Hill 722.053
+  43) DeSoto 723.581
+  44) Lancaster 725.39
+  45) Duncanville 729.675
+  46) Tyler 736.399
+  47) Arlington 736.413
+  48) Fort Worth 736.419
+  49) Grand Prairie 738.859
+  50) Lafayette 739.376
+  51) Haltom City 741.84
+  52) Dallas 745.006
+  53) Hurst 745.439
+  54) North Richland Hills 746.058
+  55) Irving 746.984
+  56) Mesquite 747.132
+  57) Euless 747.902
+  58) Bedford 747.998
+  59) Keller 757.108
+  60) Grapevine 758.68
+  61) Midland 761.037
+  62) Coppell 761.649
+  63) Odessa 762.211
+  64) Garland 762.407
+  65) Rowlett 762.62
+  66) Richardson 764.866
+  67) Carrollton 765.559
+  68) Flower Mound 767.337
+  69) Rockwall 767.593
+  70) Lewisville 772.01
+  71) Longview 772.394
+  72) Plano 773.189
+  73) Wylie 775.318
+  74) The Colony 777.077
+  75) Allen 782.77
+  76) Frisco 785.723
+  77) Alexandria 787.687
+  78) Denton 789.092
+  79) McKinney 793.567
+  80) Shreveport 818.533
+  81) Bossier City 818.541
+  82) Baton Rouge 823.475
+  83) Sherman 842.123
+  84) Wichita Falls 863.822
+  85) Kenner 871.567
+  86) New Orleans 884.008
+  87) Texarkana 893.049
+  88) Lubbock 905.172
+  89) Monroe 906.769
+  90) Lawton 940.001
+  91) Gulfport 988.906
+  92) Biloxi 1008.21
+  93) Norman 1009.42
+  94) Jackson 1019.36
+  95) Roswell 1021.79
+  96) Moore 1022.19
+  97) Hattiesburg 1024.23
+  98) El Paso 1032.25
+  99) Midwest City 1034.84
+  100) Oklahoma City 1036.29
+
+
+0997:Keizer
+  1) Salem 5.29871
+  2) Albany 39.8307
+  3) Corvallis 50.8635
+  4) Tigard 52.9675
+  5) Lake Oswego 55.4052
+  6) Beaverton 57.9547
+  7) Hillsboro 59.3267
+  8) Portland 65.2959
+  9) Gresham 73.4604
+  10) Vancouver 77.5777
+  11) Eugene 104.446
+  12) Springfield 104.985
+  13) Bend 170.733
+  14) Lacey 227.903
+  15) Olympia 227.97
+  16) Lakewood 245.796
+  17) Puyallup 250.634
+  18) Tacoma 255.643
+  19) Auburn 264.959
+  20) Federal Way 265.161
+  21) Yakima 265.2
+  22) Kent 272.81
+  23) Burien 280.776
+  24) Renton 284.158
+  25) Bremerton 288.241
+  26) Seattle 295.823
+  27) Medford 296.511
+  28) Bellevue 298.261
+  29) Sammamish 301.845
+  30) Kirkland 305.858
+  31) Redmond 306.49
+  32) Shoreline 312.052
+  33) Edmonds 317.637
+  34) Richland 324.669
+  35) Kennewick 331.672
+  36) Pasco 335.498
+  37) Everett 338.373
+  38) Marysville 346.675
+  39) Bellingham 420.164
+  40) Redding 492.52
+  41) Spokane 522.41
+  42) Caldwell 525.365
+  43) Spokane Valley 535.103
+  44) Nampa 539.239
+  45) Meridian 549.743
+  46) Boise City 563.039
+  47) Coeur d'Alene 564.911
+  48) Chico 593.311
+  49) Yuba City 660.931
+  50) Reno 662.277
+  51) Sparks 663.755
+  52) Lincoln 693.263
+  53) Carson City 701.508
+  54) Rocklin 705.239
+  55) Roseville 708.558
+  56) Woodland 709.627
+  57) Citrus Heights 713.586
+  58) Folsom 718.569
+  59) West Sacramento 723.6
+  60) Sacramento 723.992
+  61) Davis 724.74
+  62) Rancho Cordova 726.12
+  63) Missoula 728.912
+  64) Santa Rosa 728.957
+  65) Twin Falls 738.497
+  66) Rohnert Park 740.2
+  67) Vacaville 742.833
+  68) Elk Grove 744.754
+  69) Napa 746.914
+  70) Petaluma 752.33
+  71) Fairfield 754.204
+  72) Novato 766.476
+  73) Vallejo 768.572
+  74) Lodi 776.355
+  75) Martinez 778.869
+  76) Pittsburg 780.165
+  77) San Rafael 781.514
+  78) Antioch 783.535
+  79) Concord 784.312
+  80) Oakley 785.404
+  81) Richmond 786.658
+  82) Walnut Creek 791.535
+  83) Brentwood 792.824
+  84) Berkeley 794.246
+  85) Stockton 795.393
+  86) Oakland 801.714
+  87) Danville 801.892
+  88) San Francisco 804.108
+  89) Alameda 806.252
+  90) San Ramon 806.699
+  91) San Leandro 811.325
+  92) Daly City 813.517
+  93) Manteca 814.088
+  94) Dublin 815.689
+  95) Tracy 817.393
+  96) South San Francisco 817.523
+  97) Hayward 818.124
+  98) Livermore 819.602
+  99) San Bruno 820.189
+  100) Pleasanton 820.662
+
+
+0998:Spanish Fork
+  1) Provo 13.2271
+  2) Orem 20.5162
+  3) Lehi 34.9757
+  4) Draper 48.8932
+  5) Riverton 51.2783
+  6) Sandy 52.4302
+  7) South Jordan 54.9254
+  8) West Jordan 60.065
+  9) Murray 64.4869
+  10) Taylorsville 66.019
+  11) West Valley City 70.5217
+  12) Salt Lake City 74.5619
+  13) Bountiful 88.2296
+  14) Layton 108.476
+  15) Roy 120.562
+  16) Ogden 126.146
+  17) Logan 181.037
+  18) Grand Junction 290.609
+  19) Pocatello 313.57
+  20) Twin Falls 359.185
+  21) St. George 374.641
+  22) Idaho Falls 376.889
+  23) Farmington 481.134
+  24) North Las Vegas 530.397
+  25) Las Vegas 534.185
+  26) Henderson 538.71
+  27) Casper 539.961
+  28) Boise City 542.522
+  29) Boulder 543.456
+  30) Flagstaff 546.864
+  31) Meridian 552.304
+  32) Longmont 557.092
+  33) Nampa 557.207
+  34) Fort Collins 559.273
+  35) Loveland 559.284
+  36) Broomfield 559.79
+  37) Arvada 560.858
+  38) Lakewood 562.557
+  39) Westminster 564.776
+  40) Northglenn 568.975
+  41) Littleton 569.338
+  42) Denver 569.864
+  43) Thornton 570.018
+  44) Caldwell 573.695
+  45) Commerce City 573.861
+  46) Centennial 581.676
+  47) Aurora 583.444
+  48) Castle Rock 587.149
+  49) Cheyenne 587.948
+  50) Greeley 590.316
+  51) Parker 592.505
+  52) Colorado Springs 603.588
+  53) Bullhead City 608.819
+  54) Prescott Valley 615.068
+  55) Bozeman 620.647
+  56) Prescott 624.232
+  57) Pueblo 641.499
+  58) Lake Havasu City 669.221
+  59) Billings 680.612
+  60) Sparks 694.488
+  61) Rio Rancho 698.311
+  62) Reno 699.762
+  63) Carson City 702.605
+  64) Santa Fe 702.783
+  65) Albuquerque 714.529
+  66) Surprise 724.159
+  67) Peoria 728.634
+  68) Glendale 732.98
+  69) Scottsdale 736.8
+  70) Phoenix 742.436
+  71) Tempe 744.475
+  72) Apache Junction 745.265
+  73) Mesa 745.357
+  74) Avondale 745.486
+  75) Goodyear 745.574
+  76) Gilbert 752.222
+  77) Buckeye 754.722
+  78) Chandler 757.499
+  79) Missoula 775.571
+  80) Maricopa 785.688
+  81) Porterville 785.815
+  82) Visalia 788.565
+  83) Clovis 790.166
+  84) Apple Valley 792.942
+  85) Victorville 795.654
+  86) Fresno 799.916
+  87) Tulare 800.424
+  88) Casa Grande 804.825
+  89) Hesperia 805.874
+  90) Madera 810.607
+  91) Hanford 814.994
+  92) Indio 818.427
+  93) Coachella 820.556
+  94) Great Falls 821.303
+  95) Delano 822.395
+  96) Rapid City 822.698
+  97) Palm Springs 822.753
+  98) Cathedral City 823.897
+  99) Palm Desert 825.336
+  100) Merced 827.149
+
+
+0999:Beloit
+  1) Janesville 19.432
+  2) Rockford 26.8753
+  3) Crystal Lake 65.8825
+  4) DeKalb 68.4314
+  5) Madison 69.6738
+  6) Carpentersville 76.8533
+  7) Elgin 81.0507
+  8) Waukesha 86.0535
+  9) Streamwood 88.4131
+  10) Hoffman Estates 89.7157
+  11) Bartlett 90.0695
+  12) New Berlin 91.6464
+  13) Hanover Park 92.3705
+  14) Palatine 93.2328
+  15) Schaumburg 94.2527
+  16) Buffalo Grove 95.7448
+  17) Greenfield 97.3239
+  18) Brookfield 97.3528
+  19) Arlington Heights 98.2859
+  20) Waukegan 98.7572
+  21) Carol Stream 99.2584
+  22) Wheeling 99.551
+  23) Kenosha 99.5628
+  24) West Allis 100.99
+  25) Aurora 101.8
+  26) Mount Prospect 102.597
+  27) Wauwatosa 103.02
+  28) Wheaton 104.453
+  29) Racine 105.055
+  30) Addison 107.201
+  31) Des Plaines 108.278
+  32) Milwaukee 109.193
+  33) Lombard 109.559
+  34) Naperville 111.116
+  35) Elmhurst 112.573
+  36) Park Ridge 112.573
+  37) Glenview 113.381
+  38) Downers Grove 114.598
+  39) Plainfield 118.646
+  40) Skokie 118.649
+  41) Bolingbrook 120.128
+  42) Evanston 122.025
+  43) Romeoville 123.361
+  44) Oak Park 123.972
+  45) Berwyn 125.562
+  46) Cicero 128.559
+  47) Dubuque 133.888
+  48) Joliet 134.628
+  49) Chicago 135.131
+  50) Oak Lawn 137.509
+  51) Orland Park 137.82
+  52) Tinley Park 145.894
+  53) Fond du Lac 148.456
+  54) Calumet City 158.896
+  55) Hammond 163.064
+  56) Moline 165.651
+  57) Davenport 168.263
+  58) Rock Island 169.373
+  59) Gary 172.425
+  60) Oshkosh 173.249
+  61) Sheboygan 174.727
+  62) Appleton 201.307
+  63) Peoria 207.093
+  64) Normal 221.828
+  65) Cedar Rapids 224.745
+  66) Bloomington 225.16
+  67) Iowa City 226.731
+  68) La Crosse 229.714
+  69) Green Bay 238.079
+  70) Muskegon 240.811
+  71) South Bend 247.379
+  72) Mishawaka 255.152
+  73) Elkhart 268.358
+  74) Waterloo 271.487
+  75) Champaign 274.073
+  76) Urbana 275.443
+  77) Wyoming 275.552
+  78) Wausau 276.799
+  79) Grand Rapids 279.397
+  80) Kentwood 279.789
+  81) Cedar Falls 279.826
+  82) Kalamazoo 283.925
+  83) Portage 285.748
+  84) Lafayette 293.972
+  85) Decatur 296.826
+  86) Springfield 307.661
+  87) Battle Creek 316.975
+  88) Eau Claire 324.022
+  89) Rochester 325.531
+  90) Kokomo 329.913
+  91) Quincy 348.487
+  92) Fort Wayne 359.742
+  93) Terre Haute 364.542
+  94) Lansing 367.169
+  95) Carmel 372.197
+  96) Noblesville 372.633
+  97) East Lansing 373.04
+  98) Fishers 379.803
+  99) Ames 381.236
+  100) Ankeny 386.611
+
+
+1000:Panama City
+  1) Dothan 121.169
+  2) Tallahassee 136.072
+  3) Pensacola 152.332
+  4) Albany 213.453
+  5) Mobile 235.898
+  6) Valdosta 240.248
+  7) Montgomery 253.006
+  8) Columbus 263.913
+  9) Phenix City 264.695
+  10) Auburn 273.152
+  11) Biloxi 310.896
+  12) Gainesville 326.483
+  13) Gulfport 330.569
+  14) Warner Robins 334.474
+  15) Macon 354.891
+  16) Ocala 356.919
+  17) Clearwater 369.855
+  18) Hattiesburg 370.531
+  19) Largo 375
+  20) Hoover 377.142
+  21) Meridian 379.316
+  22) Tuscaloosa 384.435
+  23) Jacksonville 385.243
+  24) Pinellas Park 386.372
+  25) Birmingham 389.183
+  26) St. Petersburg 395.938
+  27) Tampa 396.591
+  28) Atlanta 416.969
+  29) Bradenton 421.755
+  30) New Orleans 425.287
+  31) Smyrna 428.185
+  32) Brookhaven 430.71
+  33) Lakeland 430.77
+  34) Apopka 431.809
+  35) Winter Garden 432.837
+  36) Palm Coast 434.12
+  37) Marietta 434.745
+  38) Ocoee 436.391
+  39) Sandy Springs 436.683
+  40) Sarasota 437.772
+  41) Dunwoody 439.388
+  42) Kenner 441.327
+  43) Peachtree Corners 445.041
+  44) Roswell 446.893
+  45) Deltona 447.874
+  46) Altamonte Springs 448.175
+  47) Sanford 451.05
+  48) Johns Creek 451.937
+  49) Orlando 452.444
+  50) Alpharetta 454.221
+  51) Ormond Beach 455.185
+  52) Daytona Beach 460.305
+  53) Kissimmee 462.025
+  54) Port Orange 464.925
+  55) Athens-Clarke County 474.419
+  56) St. Cloud 475.214
+  57) North Port 481.423
+  58) Savannah 484.069
+  59) Jackson 491.701
+  60) Titusville 500.713
+  61) Augusta-Richmond County 504.807
+  62) Decatur 509.994
+  63) Madison 515.233
+  64) Huntsville 515.843
+  65) Hilton Head Island 519.945
+  66) Baton Rouge 527.224
+  67) Fort Myers 538.875
+  68) Cape Coral 540.172
+  69) Melbourne 542.37
+  70) Chattanooga 544.533
+  71) Palm Bay 546.526
+  72) Florence 549.761
+  73) Cleveland 561.022
+  74) Bonita Springs 570.047
+  75) Fort Pierce 600.994
+  76) Greenville 605.23
+  77) Port St. Lucie 608.572
+  78) Summerville 609.113
+  79) Columbia 610.276
+  80) Lafayette 611.37
+  81) Charleston 616.446
+  82) North Charleston 616.767
+  83) Goose Creek 618.676
+  84) Mount Pleasant 627.808
+  85) Murfreesboro 636.172
+  86) Spartanburg 637.126
+  87) Franklin 651.166
+  88) Jupiter 651.29
+  89) Smyrna 652.698
+  90) Sumter 652.902
+  91) Palm Beach Gardens 654.805
+  92) Wellington 655.231
+  93) Collierville 659.988
+  94) Alexandria 661.088
+  95) Brentwood 661.681
+  96) Knoxville 665.338
+  97) Monroe 666.846
+  98) Greenacres 668.031
+  99) West Palm Beach 668.722
+  100) Asheville 670.66
+
+
